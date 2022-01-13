@@ -1,8 +1,6 @@
 # GA-Project-3-Back-end
 
-Travel App
-
-## View project
+## Travel App
 https://bit.ly/3ri1rfQ
 
 
